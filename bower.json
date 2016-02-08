@@ -1,0 +1,22 @@
+{
+  "name": "md-joyride",
+  "main": "md-joyride.js",
+  "homepage": "https://github.com/Geono/md-joyride",
+  "authors": [
+    "geono"
+  ],
+  "description": "An angular module for angular material users for providing \"joyride\" functionality to introduce your website gracefully",
+  "moduleType": [],
+  "keywords": [
+    "angular-material",
+    "joyride",
+    "website-tour",
+    "website-introduction"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-material": "~1.0.0",
+    "lodash": "~3.10.0"
+  },
+  "license": "MIT"
+}

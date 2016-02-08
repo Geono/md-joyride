@@ -64,6 +64,7 @@ var dialogHtml = '<md-dialog class="tour-dialog"' +
                  '</md-dialog>';
 
 angular.module('mdJoyride', ['ng', 'ngMaterial'])
+  .constant('_', window._)
   .factory('$mdJoyride', function($mdDialog, $timeout, $log, $q, $interval,
     $templateRequest, $sce, $compile, $rootScope, $location) {
 
@@ -123,6 +124,7 @@ angular.module('mdJoyride', ['ng', 'ngMaterial'])
        */
       ride: function(params) {
 
+        $rootScope._ = window._;
         $rootScope.tourVisible = true;
 
         if (!params) {
