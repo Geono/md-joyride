@@ -18,5 +18,10 @@
     "angular-material": "~1.0.0",
     "lodash": "~3.10.0"
   },
+  "ignore": [
+	  "**/.*",
+	  "node_modules",
+	  "components"
+  ],
   "license": "MIT"
 }
