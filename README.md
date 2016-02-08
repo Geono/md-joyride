@@ -10,7 +10,7 @@ Since [Angular Material](https://material.angularjs.org/latest/) does not provid
 
 ###Demo 
 
-![md-joyride](https://raw.githubusercontent.com/Geono/md-joyride/master/mdjoyride-pre.gif)
+![md-joyride](https://raw.githubusercontent.com/Geono/images/master/mdjoyride-pre.gif)
 
 ###Installation
 
