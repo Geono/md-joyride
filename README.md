@@ -20,7 +20,7 @@ Install using Bower
 bower install md-joyride
 ```
 
-Load js using script.
+Specify script file location.
 
 ```html
 <script src="location-of-md-joyride/md-joyride.js" type="text/javascript"></script>
