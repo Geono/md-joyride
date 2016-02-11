@@ -14,6 +14,12 @@ Since [Angular Material](https://material.angularjs.org/latest/) does not provid
 
 ###Installation
 
+Install using Bower
+
+```sh
+bower install md-joyride
+```
+
 Load js using script.
 
 ```html
